@@ -8,7 +8,7 @@
 - UIKit for views.
 - HTTP layor as a separate module.
 
-### HTTP Layout:
+### HTTP Layout(please see **NetworkKit** folder):
 - Implemented as an abstraction on top of **URLSession**.
 - Implemented as a **separate module**. The module is covered by **95% Tests**.
 
